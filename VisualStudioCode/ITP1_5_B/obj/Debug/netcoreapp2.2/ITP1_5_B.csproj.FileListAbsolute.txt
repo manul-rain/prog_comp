@@ -1,0 +1,11 @@
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.csprojAssemblyReference.cache
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.csproj.CoreCompileInputs.cache
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.AssemblyInfoInputs.cache
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.AssemblyInfo.cs
+C:\VisualStudioCode\dev\ITP1_5_B\bin\Debug\netcoreapp2.2\ITP1_5_B.deps.json
+C:\VisualStudioCode\dev\ITP1_5_B\bin\Debug\netcoreapp2.2\ITP1_5_B.runtimeconfig.json
+C:\VisualStudioCode\dev\ITP1_5_B\bin\Debug\netcoreapp2.2\ITP1_5_B.runtimeconfig.dev.json
+C:\VisualStudioCode\dev\ITP1_5_B\bin\Debug\netcoreapp2.2\ITP1_5_B.dll
+C:\VisualStudioCode\dev\ITP1_5_B\bin\Debug\netcoreapp2.2\ITP1_5_B.pdb
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.dll
+C:\VisualStudioCode\dev\ITP1_5_B\obj\Debug\netcoreapp2.2\ITP1_5_B.pdb

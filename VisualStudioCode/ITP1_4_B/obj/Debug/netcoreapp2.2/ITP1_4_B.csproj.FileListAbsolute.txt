@@ -1,0 +1,11 @@
+C:\VisualStudioCode\dev\ITP1_4_B\bin\Debug\netcoreapp2.2\ITP1_4_B.deps.json
+C:\VisualStudioCode\dev\ITP1_4_B\bin\Debug\netcoreapp2.2\ITP1_4_B.runtimeconfig.json
+C:\VisualStudioCode\dev\ITP1_4_B\bin\Debug\netcoreapp2.2\ITP1_4_B.runtimeconfig.dev.json
+C:\VisualStudioCode\dev\ITP1_4_B\bin\Debug\netcoreapp2.2\ITP1_4_B.dll
+C:\VisualStudioCode\dev\ITP1_4_B\bin\Debug\netcoreapp2.2\ITP1_4_B.pdb
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.csprojAssemblyReference.cache
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.csproj.CoreCompileInputs.cache
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.AssemblyInfoInputs.cache
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.AssemblyInfo.cs
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.dll
+C:\VisualStudioCode\dev\ITP1_4_B\obj\Debug\netcoreapp2.2\ITP1_4_B.pdb

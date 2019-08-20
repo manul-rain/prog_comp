@@ -1,0 +1,22 @@
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.deps.json
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.runtimeconfig.json
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.runtimeconfig.dev.json
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.dll
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.pdb
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.csprojAssemblyReference.cache
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.csproj.CoreCompileInputs.cache
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.AssemblyInfoInputs.cache
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.AssemblyInfo.cs
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.dll
+C:\Users\murat\Documents\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.pdb
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.deps.json
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.runtimeconfig.json
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.runtimeconfig.dev.json
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.dll
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\bin\Debug\netcoreapp2.0\ITP1_4_D.pdb
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.csprojAssemblyReference.cache
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.csproj.CoreCompileInputs.cache
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.AssemblyInfoInputs.cache
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.AssemblyInfo.cs
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.dll
+C:\Users\murat\Google ドライブ\share_folder\VisualStudioCode\ITP1_4_D\obj\Debug\netcoreapp2.0\ITP1_4_D.pdb
