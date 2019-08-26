@@ -1,0 +1,11 @@
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\bin\Debug\netcoreapp2.2\ITP1_5_C.deps.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\bin\Debug\netcoreapp2.2\ITP1_5_C.runtimeconfig.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\bin\Debug\netcoreapp2.2\ITP1_5_C.runtimeconfig.dev.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\bin\Debug\netcoreapp2.2\ITP1_5_C.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\bin\Debug\netcoreapp2.2\ITP1_5_C.pdb
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.csprojAssemblyReference.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.csproj.CoreCompileInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.AssemblyInfoInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.AssemblyInfo.cs
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\ITP1_5_C\obj\Debug\netcoreapp2.2\ITP1_5_C.pdb

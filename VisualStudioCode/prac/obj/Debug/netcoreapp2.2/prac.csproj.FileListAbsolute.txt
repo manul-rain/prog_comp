@@ -1,0 +1,11 @@
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.csprojAssemblyReference.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.csproj.CoreCompileInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.AssemblyInfoInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.AssemblyInfo.cs
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\bin\Debug\netcoreapp2.2\prac.deps.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\bin\Debug\netcoreapp2.2\prac.runtimeconfig.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\bin\Debug\netcoreapp2.2\prac.runtimeconfig.dev.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\bin\Debug\netcoreapp2.2\prac.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\bin\Debug\netcoreapp2.2\prac.pdb
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\prac\obj\Debug\netcoreapp2.2\prac.pdb
