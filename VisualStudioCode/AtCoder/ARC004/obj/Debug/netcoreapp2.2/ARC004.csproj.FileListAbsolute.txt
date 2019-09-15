@@ -1,0 +1,11 @@
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.csprojAssemblyReference.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.csproj.CoreCompileInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.AssemblyInfoInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.AssemblyInfo.cs
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\bin\Debug\netcoreapp2.2\ARC004.deps.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\bin\Debug\netcoreapp2.2\ARC004.runtimeconfig.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\bin\Debug\netcoreapp2.2\ARC004.runtimeconfig.dev.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\bin\Debug\netcoreapp2.2\ARC004.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\bin\Debug\netcoreapp2.2\ARC004.pdb
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\ARC004\obj\Debug\netcoreapp2.2\ARC004.pdb

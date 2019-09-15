@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace prac
 {
@@ -6,8 +7,19 @@ namespace prac
     {
         static void Main(string[] args)
         {
-            string[] str = Console.ReadLine().Split();
-            Console.WriteLine(string.Compare(str[0], str[1]));
+            var linqtype = Console.ReadLine()
+                    .Split(' ')
+                    .Select(x => int.Parse(x));
+
+            var arraytype = Console.ReadLine().Split(' ');
+            var n = int.Parse(arraytype[0]);
+
+            var parsetype = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(linqtype.GetType());
+            Console.WriteLine(linqtype.ToArray().GetType());
+            Console.WriteLine(n.GetType());
+            Console.WriteLine(parsetype.GetType());
         }
     }
 }
