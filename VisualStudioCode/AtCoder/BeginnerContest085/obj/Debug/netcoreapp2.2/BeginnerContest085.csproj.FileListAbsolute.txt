@@ -1,0 +1,11 @@
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\bin\Debug\netcoreapp2.2\BeginnerContest085.deps.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\bin\Debug\netcoreapp2.2\BeginnerContest085.runtimeconfig.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\bin\Debug\netcoreapp2.2\BeginnerContest085.runtimeconfig.dev.json
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\bin\Debug\netcoreapp2.2\BeginnerContest085.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\bin\Debug\netcoreapp2.2\BeginnerContest085.pdb
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.csprojAssemblyReference.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.csproj.CoreCompileInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.AssemblyInfoInputs.cache
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.AssemblyInfo.cs
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.dll
+C:\Users\murat\mygit\prog_comp\VisualStudioCode\AtCoder\BeginnerContest085\obj\Debug\netcoreapp2.2\BeginnerContest085.pdb
