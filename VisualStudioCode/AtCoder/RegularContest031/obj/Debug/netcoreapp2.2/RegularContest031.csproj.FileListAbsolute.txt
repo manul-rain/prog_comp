@@ -1,0 +1,11 @@
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.csprojAssemblyReference.cache
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.csproj.CoreCompileInputs.cache
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.AssemblyInfoInputs.cache
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.AssemblyInfo.cs
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\bin\Debug\netcoreapp2.2\RegularContest031.deps.json
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\bin\Debug\netcoreapp2.2\RegularContest031.runtimeconfig.json
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\bin\Debug\netcoreapp2.2\RegularContest031.runtimeconfig.dev.json
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\bin\Debug\netcoreapp2.2\RegularContest031.dll
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\bin\Debug\netcoreapp2.2\RegularContest031.pdb
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.dll
+C:\Users\murat\Documents\prog_comp\VisualStudioCode\AtCoder\RegularContest031\obj\Debug\netcoreapp2.2\RegularContest031.pdb
